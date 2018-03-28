@@ -17,7 +17,7 @@ def detect():
 		ret, img = cap.read()
 		#template = cv2.Canny(template, 50, 200)
 		gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-		print(gray)
+		# print(gray)
 		cv2.imshow("Template", template)
 		found = None
 		for scale in np.linspace (0.2, 1.0, 20)[::-1]:
@@ -36,6 +36,8 @@ def detect():
  
 			# if we have found a new maximum correlation value, then ipdate
 			# the bookkeeping variable
+			print("result:", result)
+			print("found:", found)
 			if found is None or maxVal > found[0]:
 				found = (maxVal, maxLoc, r)
  
