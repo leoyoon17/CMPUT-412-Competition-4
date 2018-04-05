@@ -7,6 +7,7 @@ In Competition folder
 5) roslaunch turtlebot_rviz_launchers view_navigation.launch
 6) roslaunch sound_play soundplay_node.launch
 7) roslaunch usb_cam usb_cam-test.launch
+8) roslaunch ar_track_alvar comp4.launch
 8) ./stateMachine.py
 
 

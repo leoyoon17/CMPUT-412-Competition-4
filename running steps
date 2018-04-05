@@ -8,7 +8,7 @@ In Competition folder
 6) roslaunch sound_play soundplay_node.launch
 7) roslaunch usb_cam usb_cam-test.launch
 8) roslaunch ar_track_alvar comp4.launch
-8) ./stateMachine.py
+9) ./stateMachine.py
 
 
 rosrun rqt_reconfigure rqt_reconfigure
