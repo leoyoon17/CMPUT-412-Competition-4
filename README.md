@@ -1,6 +1,6 @@
 ## CMPUT 412 Winter 2018 Competition 4: Egg Hunting, By Jae-yeon (Leo) Yoon and Sumeyye Aydin ##
 
-The competition report can be found ![here](https://github.com/leoyoon17/CMPUT-412-Competition-4/blob/master/docs/report.md)!
+The competition report can be found ![here](https://github.com/leoyoon17/CMPUT-412-Competition-4/blob/master/docs/Competition%204%20Report.pdf)!
 
 To download the necessary files:
 ```
